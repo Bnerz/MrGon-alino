@@ -1,0 +1,202 @@
+body{
+  background-color: #D3E0EA;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding: 0;
+}
+
+.container-fluid{
+  padding: 2% 8%;
+ }
+
+/* ########################################################################################################### */
+/* Nav Section */
+.navbar-brand{
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5rem;
+}
+.logoBrand{
+  width: 70px;
+  padding-right: 10px;
+}
+.navbar-section{
+  background-color: #1687A7;
+  padding: 7px 70px;
+  font-size: 1.5rem;
+}
+.delivery{
+  font-size: 1.2rem;
+}
+#title.container-fluid{
+  padding:0 ;
+}
+
+/* ########################################################################################################### */
+/* header-section */
+
+.header-section{
+  padding: 5% 15%;
+}
+
+#head-text{
+  font-family: 'Fredericka the Great', cursive;
+  line-height: 1.2;
+  font-size: 3.6rem;
+  font-weight: 500;
+}
+
+/* ########################################################################################################### */
+/* Product Section */
+
+.product-img{
+  max-width: 348px;
+  max-height: 245px;
+  display: block;
+  width: auto;
+  height: auto;
+
+}
+
+.productSection2{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+/* ########################################################################################################### */
+/* feature section */
+.feature-section{
+  ;
+  padding:
+}
+
+#features {
+  position: relative;
+  background-color: #1687A7
+}
+
+.feature-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.featureImage{
+  width: 25%;
+}
+
+/* ########################################################################################################### */
+/* produc Section */
+#producSection{
+padding: 2% 15% 7%;
+
+}
+
+.menu-text{
+  font-size: 3.5rem;
+  margin: 5%;
+}
+
+
+/* ########################################################################################################### */
+/* Testimonial Section */
+
+.testimonial-section{
+background-color: #1687A7;
+
+}
+
+.testimonial-image{
+  width: 15%;
+  border-radius: 50%;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #D3E0EA;
+}
+/* ########################################################################################################### */
+/* Contatos */
+.contact-section{
+  background-color: #276678;
+}
+
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+#contact{
+  color: #99A8B2;
+}
+
+#contact.container-fluid{
+  padding: 2% 15%;
+}
+
+/* ########################################################################################################### */
+/* Product Page */
+
+.productLeft-img{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.productRight-img{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.productList2{
+padding: 2% 8%;
+
+}
+
+.productSection2{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+/* ########################################################################################################### */
+/* History Page */
+
+.historyLeft-img{
+  border-radius: 10%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.historyRight-img{
+  border-radius: 10%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.history{
+padding: 2% 8%;
+
+}
+
+.history2{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+/* ########################################################################################################### */
+/* Contact Page */
+
+#contact-page{
+padding: 2% 10%;
+text-align: center;
+}
